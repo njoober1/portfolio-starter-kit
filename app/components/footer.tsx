@@ -12,7 +12,7 @@ function ArrowIcon() {
         fill="currentColor"
       />
     </svg>
-  )
+  );
 }
 
 export default function Footer() {
@@ -27,7 +27,7 @@ export default function Footer() {
             href="/rss"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">rss</p>
+            <p className="ml-2 h-7">rss2</p>
           </a>
         </li>
         <li>
@@ -38,7 +38,7 @@ export default function Footer() {
             href="https://github.com/vercel/next.js"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">github</p>
+            <p className="ml-2 h-7">github2</p>
           </a>
         </li>
         <li>
@@ -57,5 +57,5 @@ export default function Footer() {
         © {new Date().getFullYear()} MIT Licensed
       </p>
     </footer>
-  )
+  );
 }
