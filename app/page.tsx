@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        Nizar Joober
       </h1>
       <p className="mb-4">
         {`I’m an experienced Product Owner and Project Manager with an engineering background, specializing in Microsoft collaboration tools and data-driven projects. With an entrepreneurial mindset and a passion for AI, I’m always exploring innovative solutions that drive real impact.

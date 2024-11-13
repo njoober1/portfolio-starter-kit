@@ -8,7 +8,7 @@ const navItems = {
     name: "Linkedin",
   },
   "/toto": {
-    name: "Nothing",
+    name: "Nothing else for now",
   },
 };
 
